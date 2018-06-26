@@ -1,4 +1,4 @@
-package singletonPattern;
+package singleton;
 
 import java.util.Random;
 import java.util.Scanner;

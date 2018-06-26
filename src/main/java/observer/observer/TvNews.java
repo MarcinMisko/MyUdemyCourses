@@ -1,6 +1,6 @@
-package observerPattern.observer;
+package observer.observer;
 
-import observerPattern.WeatherForecast;
+import observer.WeatherForecast;
 
 public class TvNews implements Observer{
     public void updateForecast(WeatherForecast weatherForecast) {

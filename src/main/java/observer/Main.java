@@ -1,8 +1,8 @@
-package observerPattern;
+package observer;
 
-import observerPattern.observer.InternetNews;
-import observerPattern.observer.RadioNews;
-import observerPattern.observer.TvNews;
+import observer.observer.InternetNews;
+import observer.observer.RadioNews;
+import observer.observer.TvNews;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package observerPattern;
+package observer;
 
-import observerPattern.observable.Observable;
-import observerPattern.observer.Observer;
+import observer.observable.Observable;
+import observer.observer.Observer;
 
 import java.util.HashSet;
 import java.util.Set;

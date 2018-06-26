@@ -1,6 +1,6 @@
-package observerPattern.observer;
+package observer.observer;
 
-import observerPattern.WeatherForecast;
+import observer.WeatherForecast;
 
 public class RadioNews implements Observer{
 
